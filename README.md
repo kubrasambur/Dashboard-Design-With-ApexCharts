@@ -3,10 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## İmages
-<img src="src/assets/img/1.png" height="400" width="1000"><img/>
-<img src="src/assets/img/2.png" height="400" width="1000"><img/>
-<img src="src/assets/img/3.png" height="400" width="1000"><img/>
-<img src="src/assets/img/4.png" height="400" width="1000"><img/>
+<img src="src/assets/img/1.png" height="430" width="1000"><img/>
+<img src="src/assets/img/2.png" height="330" width="1000"><img/>
+<img src="src/assets/img/3.png" height="330" width="1000"><img/>
+<img src="src/assets/img/4.png" height="330" width="1000"><img/>
 
 ## Available Scripts
 
